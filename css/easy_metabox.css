@@ -1,0 +1,18 @@
+.text-center{
+	text-align:center;
+}
+.text-left{
+	text-align:left;
+}
+li#toplevel_page_easy_meta_box img {
+    max-width: 18px;
+}
+tr.meta_type td {
+    padding: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+table.form-table.OF_table tr:nth-child(odd) {
+    background-color: rgba(0,0,0,0.05);
+}
+
